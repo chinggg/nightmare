@@ -1,0 +1,3 @@
+0x080bb496 : pop eax ; ret
+0x0806f34a : pop edx ; ret
+0x0806f371 : pop ecx ; pop ebx ; ret
